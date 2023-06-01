@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8574276204383317132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8574276204383317139}
+  - component: {fileID: 8574276204383317138}
+  m_Layer: 0
+  m_Name: ItemManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8574276204383317139
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8574276204383317132}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8574276204383317138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8574276204383317132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4f00775f5ddb0479bfeabb4307ad6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gunSprite: {fileID: 21300000, guid: 7925d6d2e556da0449ccd17cf88559ca, type: 3}
+  bulletSprite: {fileID: 21300000, guid: e1901c49497ee6c4dae89d37754a2872, type: 3}
+  laserGunSprite: {fileID: 21300000, guid: 09ccadb558c46bc4991230874689992b, type: 3}
+  laserBeamSprite: {fileID: 21300000, guid: b840259f07891b24db690cd7ee05d36d, type: 3}
+  axeSprite: {fileID: 21300000, guid: cccea96aede695f4f83d57508fdd941d, type: 3}
+  bombSprite: {fileID: 21300000, guid: 9f8d74959b0a53848be9fef84758d043, type: 3}
+  usedBombSprite: {fileID: 21300000, guid: 8d1bb8001efc3f441ad083dc5499b953, type: 3}
+  bladeSprite: {fileID: 21300000, guid: 72fdfa5631e2ee341ac6b4831fc4bc11, type: 3}
+  usedBladeSprite: {fileID: 21300000, guid: 638bea1865d28454f9bbd102ace562bf, type: 3}
+  bananaSkinSprite: {fileID: 21300000, guid: 3010a6fe48d4b704e9e6b3a5f0b2878f, type: 3}
+  usedBananaSkinSprite: {fileID: 21300000, guid: 9c400563c0a1ed04b83f55bd94fa14a7, type: 3}
+  spellSprite: {fileID: 21300000, guid: 38ea1f3b87903904590b43422935b257, type: 3}
+  usedSpellSprite: {fileID: 21300000, guid: 703e484a8a627004b9cd3cff71d66c69, type: 3}
+  bombExplosionSound: {fileID: 8300000, guid: d8f9e76eb4638154a83b5b2fcb4ff262, type: 3}
+  itemDropSound: {fileID: 8300000, guid: 805d4ca8e418bd3498a0dd5f8397c19b, type: 3}
+  spellDropSound: {fileID: 8300000, guid: 96b3c3a34b33dbf4989e2a6d6c5e2d77, type: 3}

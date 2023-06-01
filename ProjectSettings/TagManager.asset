@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - BombItem
+  - RhinoMonster
+  - GoblinMonster
+  - GunItem
+  - BulletItem
+  - ActiveTeleporter
+  - InactiveTeleporter
+  - WildSnifferMonster
+  - SpookMonster
+  - UndeadMonster
+  - BananaSkinItem
+  - AxeItem
+  - ProjectedItem
+  - SpellItem
+  - LaserGunItem
+  - LaserBeamItem
+  - BladeItem
+  - RaptorbotMonster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2903161047
+    locked: 0
+  - name: Walls
+    uniqueID: 35196845
+    locked: 0
+  - name: Player
+    uniqueID: 3345910813
+    locked: 0
+  - name: Hotbar
+    uniqueID: 489327559
+    locked: 0

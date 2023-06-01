@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9fc8eca28b235f544bac705425eb6fe8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerRunningLeftSprite1: {instanceID: 0}
+  - playerRunningLeftSprite2: {instanceID: 0}
+  - playerStandingLeftSprite: {instanceID: 0}
+  - playerRunningRightSprite1: {instanceID: 0}
+  - playerRunningRightSprite2: {instanceID: 0}
+  - playerStandingRightSprite: {instanceID: 0}
+  - playerRunningDownSprite1: {instanceID: 0}
+  - playerRunningDownSprite2: {instanceID: 0}
+  - playerStandingDownSprite: {instanceID: 0}
+  - playerRunningUpSprite1: {instanceID: 0}
+  - playerRunningUpSprite2: {instanceID: 0}
+  - playerStandingUpSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
